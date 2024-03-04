@@ -1,4 +1,4 @@
-<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
+<h1>Exp NO - 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: PAVITHRA R</h3>
 <h3>Register Number: 212222230106 </h3>
 
@@ -249,4 +249,4 @@ if   __name__ == "__main__":
 ![Screenshot 2024-03-04 103918](https://github.com/Pavithraramasaamy/19AI405ExpNo1/assets/118596964/67bfeab8-b93c-43d1-848c-0e36ad010e46)
 
 ## RESULT:
-         The process to find the PEAS description for the given AI problem and develop an AI agent has been completed successfully.
+  The process to find the PEAS description for the given AI problem and develop an AI agent has been completed successfully.
