@@ -1,4 +1,4 @@
-<h1>Exp NO - 1 :Developing AI Agent with PEAS Description</h1>
+<h1>EXP NO - 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: PAVITHRA R</h3>
 <h3>Register Number: 212222230106 </h3>
 
